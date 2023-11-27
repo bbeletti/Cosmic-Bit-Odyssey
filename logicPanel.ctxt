@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=logicPanel
+comment1.params=
+comment1.target=logicPanel()
+comment2.params=bits
+comment2.target=Bit[]\ setupBits(Bit[])
+comment3.params=
+comment3.target=void\ setupLevelBar()
+comment4.params=
+comment4.target=void\ setupButtons()
+comment5.params=
+comment5.target=void\ setupNave()
+numComments=6

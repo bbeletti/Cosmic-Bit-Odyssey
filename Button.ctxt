@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=normal\ selected
+comment1.target=Button(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ getState()
+comment4.params=state
+comment4.target=void\ setState(boolean)
+numComments=5
